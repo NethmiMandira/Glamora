@@ -1,0 +1,23 @@
+# Build folders
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+
+# Logs and temporary files
+*.log
+*.DS_Store
+*.tmp
+
+# IIS Express
+.vscode/
+iisexpress/
